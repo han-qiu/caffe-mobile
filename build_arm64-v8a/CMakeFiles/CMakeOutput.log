@@ -1,0 +1,44 @@
+The target system is: Android - 1 - aarch64
+The host system is: Linux - 4.10.0-33-generic - x86_64
+Determining if the include file pthread.h exists passed with the following output:
+Change Dir: /home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_89fdd/fast"
+/usr/bin/make -f CMakeFiles/cmTC_89fdd.dir/build.make CMakeFiles/cmTC_89fdd.dir/build
+make[1]: Entering directory '/home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_89fdd.dir/CheckIncludeFile.c.o
+/home/hqiu/Desktop/samsung/android-ndk-r12b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-gcc  -DANDROID -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64/usr/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -fexceptions -Wno-psabi --sysroot=/home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64 -funwind-tables -fsigned-char -no-canonical-prefixes -fdata-sections -ffunction-sections -Wa,--noexecstack   -fPIE   -o CMakeFiles/cmTC_89fdd.dir/CheckIncludeFile.c.o   -c /home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp/CheckIncludeFile.c
+Linking C executable cmTC_89fdd
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_89fdd.dir/link.txt --verbose=1
+/home/hqiu/Desktop/samsung/android-ndk-r12b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-gcc  -fexceptions -Wno-psabi --sysroot=/home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64 -funwind-tables -fsigned-char -no-canonical-prefixes -fdata-sections -ffunction-sections -Wa,--noexecstack     -Wl,--no-undefined -Wl,-allow-shlib-undefined -Wl,--gc-sections -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,-z,nocopyreloc -fPIE -pie  CMakeFiles/cmTC_89fdd.dir/CheckIncludeFile.c.o -o cmTC_89fdd  -L/libs/arm64-v8a   "/home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libsupc++.a"
+make[1]: Leaving directory '/home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp'
+
+
+Determining if the pthread_create exist passed with the following output:
+Change Dir: /home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_5b365/fast"
+/usr/bin/make -f CMakeFiles/cmTC_5b365.dir/build.make CMakeFiles/cmTC_5b365.dir/build
+make[1]: Entering directory '/home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5b365.dir/CheckSymbolExists.c.o
+/home/hqiu/Desktop/samsung/android-ndk-r12b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-gcc  -DANDROID -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64/usr/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/include -isystem /home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -fexceptions -Wno-psabi --sysroot=/home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64 -funwind-tables -fsigned-char -no-canonical-prefixes -fdata-sections -ffunction-sections -Wa,--noexecstack   -fPIE   -o CMakeFiles/cmTC_5b365.dir/CheckSymbolExists.c.o   -c /home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c
+Linking C executable cmTC_5b365
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5b365.dir/link.txt --verbose=1
+/home/hqiu/Desktop/samsung/android-ndk-r12b/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-gcc  -fexceptions -Wno-psabi --sysroot=/home/hqiu/Desktop/samsung/android-ndk-r12b/platforms/android-21/arch-arm64 -funwind-tables -fsigned-char -no-canonical-prefixes -fdata-sections -ffunction-sections -Wa,--noexecstack     -Wl,--no-undefined -Wl,-allow-shlib-undefined -Wl,--gc-sections -Wl,-z,noexecstack -Wl,-z,relro -Wl,-z,now -Wl,-z,nocopyreloc -fPIE -pie  CMakeFiles/cmTC_5b365.dir/CheckSymbolExists.c.o -o cmTC_5b365  -L/libs/arm64-v8a   "/home/hqiu/Desktop/samsung/android-ndk-r12b/sources/cxx-stl/gnu-libstdc++/4.9/libs/arm64-v8a/libsupc++.a"
+make[1]: Leaving directory '/home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp'
+
+File /home/hqiu/Desktop/samsung/caffe-mobile/build_arm64-v8a/CMakeFiles/CMakeTmp/CheckSymbolExists.c:
+/* */
+#include <pthread.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef pthread_create
+  return ((int*)(&pthread_create))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+

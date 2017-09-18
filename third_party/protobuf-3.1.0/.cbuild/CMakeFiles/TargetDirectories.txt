@@ -1,0 +1,10 @@
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/install.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/list_install_components.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/rebuild_cache.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/install/local.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/install/strip.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/edit_cache.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/libprotobuf-lite.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/libprotoc.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/libprotobuf.dir
+/home/hqiu/Desktop/samsung/caffe-mobile/third_party/protobuf-3.1.0/.cbuild/CMakeFiles/protoc.dir
